@@ -18,7 +18,7 @@
     }
   ],
   "toggles": {
-    "claude": "agent",
+    "claude": "you",
     "grok": "you",
     "main": "you"
   },
@@ -58,6 +58,13 @@
       "from": "you",
       "text": "test kicker",
       "ts": 1789506318111
+    },
+    {
+      "id": "1789506371726-pjye4",
+      "lane": "claude",
+      "from": "you",
+      "text": "You're Main, joining a running multi-agent conversation called \"Roundtable.\" Below is everything discussed so far across all participants. Read it, then respond as Main to whatever is most recently relevant to you.\n\n---\n\n[Grok]\nDo this\n\n[You (to Claude)]\n> [Grok]\n> Do this\n\n[Claude]\nok lemme look.. Proceeding.\n\n[You (to Grok)]\n> [Claude]\n> ok lemme look.. Proceeding.\n\n[You (to Main)]\ntest kicker",
+      "ts": 1789506371726
     }
   ]
 }
