@@ -1,0 +1,17 @@
+{
+  "participants": [
+    {
+      "name": "You",
+      "color": "#3a6b8a"
+    },
+    {
+      "name": "Claude",
+      "color": "#b8532f"
+    },
+    {
+      "name": "Grok",
+      "color": "#6b5b95"
+    }
+  ],
+  "messages": []
+}
