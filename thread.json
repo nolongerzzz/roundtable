@@ -25,6 +25,12 @@
       "speaker": "Claude",
       "text": "test2",
       "ts": 1789503180380
+    },
+    {
+      "id": "1789503189209-mxbcc",
+      "speaker": "Grok",
+      "text": "test3",
+      "ts": 1789503189209
     }
   ]
 }
