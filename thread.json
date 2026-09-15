@@ -1,36 +1,27 @@
 {
-  "participants": [
+  "lanes": [
     {
-      "name": "You",
-      "color": "#3a6b8a"
-    },
-    {
+      "id": "claude",
       "name": "Claude",
       "color": "#b8532f"
     },
     {
+      "id": "grok",
       "name": "Grok",
       "color": "#6b5b95"
     }
   ],
+  "toggles": {
+    "claude": "you",
+    "grok": "agent"
+  },
   "messages": [
     {
-      "id": "1789503164795-8dnr2",
-      "speaker": "You",
-      "text": "test1",
-      "ts": 1789503164795
-    },
-    {
-      "id": "1789503180380-hzph8",
-      "speaker": "Claude",
-      "text": "test2",
-      "ts": 1789503180380
-    },
-    {
-      "id": "1789503189209-mxbcc",
-      "speaker": "Grok",
-      "text": "test3",
-      "ts": 1789503189209
+      "id": "1789505508290-vxvwy",
+      "lane": "grok",
+      "from": "agent",
+      "text": "Do this",
+      "ts": 1789505508290
     }
   ]
 }
