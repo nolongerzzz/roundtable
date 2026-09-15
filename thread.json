@@ -13,5 +13,12 @@
       "color": "#6b5b95"
     }
   ],
-  "messages": []
+  "messages": [
+    {
+      "id": "1789503164795-8dnr2",
+      "speaker": "You",
+      "text": "test1",
+      "ts": 1789503164795
+    }
+  ]
 }
