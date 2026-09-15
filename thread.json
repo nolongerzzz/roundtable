@@ -15,12 +15,18 @@
       "id": "grok",
       "name": "Grok",
       "color": "#6b5b95"
+    },
+    {
+      "id": "got",
+      "name": "got",
+      "color": "#6b5b95"
     }
   ],
   "toggles": {
     "claude": "you",
     "grok": "you",
-    "main": "you"
+    "main": "you",
+    "got": "you"
   },
   "collapsed": {},
   "messages": [
