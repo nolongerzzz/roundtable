@@ -19,6 +19,12 @@
       "speaker": "You",
       "text": "test1",
       "ts": 1789503164795
+    },
+    {
+      "id": "1789503180380-hzph8",
+      "speaker": "Claude",
+      "text": "test2",
+      "ts": 1789503180380
     }
   ]
 }
