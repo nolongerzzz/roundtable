@@ -13,7 +13,7 @@
   ],
   "toggles": {
     "claude": "agent",
-    "grok": "agent"
+    "grok": "you"
   },
   "messages": [
     {
@@ -36,6 +36,13 @@
       "from": "agent",
       "text": "ok lemme look.. Proceeding.",
       "ts": 1789505549474
+    },
+    {
+      "id": "1789505558693-4pd9x",
+      "lane": "grok",
+      "from": "you",
+      "text": "> [Claude]\n> ok lemme look.. Proceeding.",
+      "ts": 1789505558693
     }
   ]
 }
